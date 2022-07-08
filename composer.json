@@ -1,0 +1,7 @@
+{
+    "name": "atacdevs/ataclib",
+    "description": "As Amino API With Cool Features That ATAC AMINO Have",
+    "require": {
+        "php": ">=7.4",
+    }
+}
